@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+}
+
+.form{
+    width: 60%;
+    height: 55vh;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 90px 290px ;
+    padding: 10px;
+}
+
+.input-signup{
+    width: 90%;
+    margin: 10px;
+    border-bottom: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right:none;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+#btn{
+    position: relative;
+    padding: 8px;
+    top: 30px;
+    left: 320px;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: 90px;
+    height: 40px;
+    font-size: 18px;
+}
+
+button{
+    margin: 10px;
+}
+
+input{
+    color: black;
+    font-size: 18px;
+}
+
+#labled{
+    margin-left: 900px;
+    font-size: 20px;
+}
